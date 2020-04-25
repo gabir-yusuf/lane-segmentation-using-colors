@@ -49,5 +49,7 @@ line_image[~color_thresholds & region_thresholds] = [255,0,0]
 plt.imshow(color_select)
 plt.imshow(line_image)
 
+mpimg.imsave('output.jpg', line_image)
+
 # uncomment if plot does not display
 plt.show()
