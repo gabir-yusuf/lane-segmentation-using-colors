@@ -1,4 +1,4 @@
-# Colored-based-Lane-Segmentation
+# Color-based-Lane-Segmentation
 
 ### input image:
 
